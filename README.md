@@ -1,5 +1,3 @@
-My GitHub url: https://github.com/Idanturjeman.
-
 - 👋 Hi, I’m @Idanturjeman,
 - 👀 I’m interested in make the world a better place.
 - 🌱 I’m currently learning computer science.
