@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Idanturjeman,
+- 👋 Hi, I’m @Idanturgeman,
 - 👀 I’m interested in make the world a better place.
 - 🌱 I’m currently learning computer science.
 - 💞️ I am looking to collaborate with a company that has a vision to leave a mark in the world.
