@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Idanturjeman,
 - 👀 I’m interested in make the world a better place.
 - 🌱 I’m currently learning computer science.
-- 💞️ I am looking to collaborate with a company that has a vision to make a mark in the world.
+- 💞️ I am looking to collaborate with a company that has a vision to leave a mark in the world.
 - 📫 How to reach me idantur55555@gmail.com.
 
 <!---
